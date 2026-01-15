@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 **Anis Zouaghi**
-- GitHub: [@anis-zouaghi](https://github.com/anis-zouaghi)
-- Email: anis.zouaghi@example.com
+- GitHub: [@anis-zouaghi](https://github.com/znissou)
+- Email: anis@zouaghi.com
 
 ---
 
