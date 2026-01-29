@@ -178,12 +178,6 @@ ImageFilter.blur(sigmaX: 20, sigmaY: 20)
 color: Color.fromARGB(255, 30, 50, 80), // Deep blue
 ```
 
-## 📸 Screenshots
-
-| Light Theme | Dark Theme | Mobile View |
-|-------------|------------|-------------|
-| ![Light Theme](https://raw.githubusercontent.com/anis-zouaghi/glassmorphism-login/main/assets/light.png) | ![Dark Theme](https://raw.githubusercontent.com/anis-zouaghi/glassmorphism-login/main/assets/dark.png) | ![Mobile](https://raw.githubusercontent.com/anis-zouaghi/glassmorphism-login/main/assets/mobile.png) |
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
