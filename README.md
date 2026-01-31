@@ -6,15 +6,17 @@ A stunning Flutter implementation of the glassmorphism design trend, showcasing 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Desktop-brightgreen)](https://flutter.dev/multi-platform)
 
-<img width="1080" height="2400" alt="Screenshot_1768472289" src="" />
 
 <p align="center">
-  <img style="width:40%; height:auto;" 
+  <img style="width:27%; height:auto;" 
        alt="Screenshot_1" 
        src="https://github.com/user-attachments/assets/b25b2f71-524d-496c-a8ec-73300eeeb02f" />
-    <img style="width:40%; height:auto;" 
+    <img style="width:27%; height:auto;" 
        alt="Screenshot_2" 
        src="https://github.com/user-attachments/assets/7fdd92f8-e052-4b52-a2b1-c60834ce4813" />
+   <img style="width:27%; height:auto;" 
+       alt="Screenshot_2" 
+       src="https://github.com/user-attachments/assets/931f175b-3191-4d64-abf4-6de308f61010" />
 </p>
 
 
